@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82705595303",
+    "project_id": "savora-74127",
+    "storage_bucket": "savora-74127.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82705595303:android:c5780a27c23d5dda489482",
+        "android_client_info": {
+          "package_name": "com.example.tablego"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRz7zTLzZ5pb0esMzS9eS9rbo2py2mJ00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
