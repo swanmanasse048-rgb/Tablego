@@ -1,6 +1,6 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
-import 'package:savora/restaurant/splash_restaurant.dart';
+import 'package:savora/screens/splah_screen.dart';
 import 'package:savora/services/notifications_service.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 import 'package:flutter/material.dart';
@@ -43,7 +43,7 @@ class TableGO extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Savora',
-      home: const SplashRestaurant(),
+      home: const SplashScreen(),
     );
   }
 }
